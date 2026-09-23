@@ -7,7 +7,7 @@
             "text": "Miami-Dade County",
             "required": false
         },
-        "name": "Miami-Dade County Orthoimagery (2021)",
+        "name": "Miami-Dade County Orthoimagery (2026)",
         "icon": "https://www.miamidade.gov/resources/global/images/md-logo-color.png",
         "url": "https://imageserverintra.miamidade.gov/arcgis/rest/services/Woolpert2026/ImageServer/exportImage?f=image&bbox={bbox}&bboxSR={wkid}&imageSR={wkid}&size={width},{height}",
         "min_zoom": 5,
